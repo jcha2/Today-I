@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itemShowAll"
+        android:title="Show all" />
+    <item
+        android:id="@+id/itemSetPassword"
+        android:title="Set Password" />
+    <item
+        android:id="@+id/itemAbout"
+        android:title="About" />
+</menu>
